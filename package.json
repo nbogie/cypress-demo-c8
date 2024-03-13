@@ -1,0 +1,11 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nbogie",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "cypress": "^13.6.6"
+  }
+}
